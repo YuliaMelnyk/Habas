@@ -15,8 +15,8 @@ import com.yuliiamelnyk.habas.model.Article
  * @project Habas
  * @author yuliiamelnyk on 09/11/2020
  */
-class MyAdapter(listArray: ArrayList<Article>, mContext: Context) :
-    RecyclerView.Adapter<MyAdapter.ViewHolder>() {
+class ArticleAdapter(listArray: ArrayList<Article>, mContext: Context) :
+    RecyclerView.Adapter<ArticleAdapter.ViewHolder>() {
 
     var listArticleArray = listArray
     var context = mContext
@@ -38,10 +38,10 @@ class MyAdapter(listArray: ArrayList<Article>, mContext: Context) :
             title.text = listItem.title
             category.text = listItem.category.toString()
             likes.setImageResource(listItem.imgLikes)
-            txtLikes.text = listItem.txtLikes
+            txtLikes.text = listItem.txtLikes.toString()
             bookmarks.setImageResource(listItem.imgBookmarks)
-            txtBookmarks.text = listItem.txtBookmarks
-            itemView.setOnClickListener() {
+            txtBookmarks.text = listItem.txtBookmarks.toString()
+            itemView.setOnClickListener {
                 Toast.makeText(context, "Presed: ${title.text}", Toast.LENGTH_SHORT).show()
             }
         }
