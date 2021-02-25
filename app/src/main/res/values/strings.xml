@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Habas</string>
+    <string name="e_mail">Enter your email</string>
+    <string name="password">Enter your password</string>
+    <string name="reset_password">Reset a password</string>
+    <string name="label_two">or signIn with</string>
+    <string name="login">Login</string>
+    <string name="member_label">Not a member yet?</string>
+    <string name="sign_up_label">Sign Up</string>
+    <string name="your_name">Enter your name</string>
+    <string name="re_type_password">Repeat your password</string>
+
+    <string name="sign_up_with">Sign up with</string>
+    <string name="plus_sign_out">Change Google+ account</string>
+    <string name="plus_disconnect">Disconnect from Google+</string>
+    <string name="error_invalid_email">Invalid Email</string>
+    <string name="error_invalid_password">The password is too short</string>
+    <string name="error_incorrect_password">Email or password incorrect</string>
+    <string name="error_repeat_password">Your password and confirmation password do not match </string>
+    <string name="error_field_required">Required field</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="create_account">Register</string>
+    <string name="auth_failed">Authentication failed</string>
+
+    <string name="facebook_app_id">696493594558010</string>
+    <string name="fb_login_protocol_scheme">fb696493594558010</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">ea859d0a4ce34cc1070afb4cccac925c</string>
+
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="post">New Post</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="article_title">Title</string>
+    <string name="article_author">Author</string>
+    <string name="article_category">Category</string>
+    <string name="publish">Publicar</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+
+</resources>

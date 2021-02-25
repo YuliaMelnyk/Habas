@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "285825771550",
+    "firebase_url": "https://habas-c007d.firebaseio.com",
+    "project_id": "habas-c007d",
+    "storage_bucket": "habas-c007d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285825771550:android:82f36bd28febdf4ec4260f",
+        "android_client_info": {
+          "package_name": "com.yuliiamelnyk.habas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285825771550-d07j6t241f9m34kvk1nr4m65ihg1ub17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF0vIYEegZUzGvsSEb7eHEJDm9P7SqTqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285825771550-d07j6t241f9m34kvk1nr4m65ihg1ub17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
