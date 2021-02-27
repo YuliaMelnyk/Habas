@@ -13,7 +13,6 @@
         android:layout_height="wrap_content"
         android:background="@color/darkMode">
 
-
         <include
             layout="@layout/toolbar_new_post"
             android:layout_width="match_parent"
@@ -27,7 +26,6 @@
         android:background="@color/white"
         android:layout_marginTop="?attr/actionBarSize"
         android:layout_height="match_parent">
-
 
         <!-- Begin Editor toolbar -->
 
